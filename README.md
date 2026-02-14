@@ -8,7 +8,7 @@ Welcome to the **Introduction to C** repository! This project contains a collect
 
 - **`/*.c`**: Source code files for various programming problems.
 - **`flowcharts/`**: Visual representations (Flowcharts) of the logic for each program.
-- **`output/`**: (Ignored by Git) Contains compiled `.exe` files.
+- **`output/`**: (Ignored by Git) Contains compiled `.exe` files, you can store your exe files here
 - **`compile_all.ps1`**: A PowerShell script to automate the compilation of all programs.
 
 ---
